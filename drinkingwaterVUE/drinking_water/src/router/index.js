@@ -14,12 +14,12 @@ const routes = [
         component: Home
     },
     {
-        path: '/Data',
+        path: '/data',
         name: 'Data',
         component: Data
     },
     {
-        path: '/Track',
+        path: '/track',
         name: 'Track',
         component: Track
     },

@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Your water consumption</h1>
+    <h1>Your water consumption history</h1>
   </div>
 </template>
